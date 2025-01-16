@@ -2,7 +2,7 @@
 
 This repository contains an in-depth analysis of the POPCAT token, focusing on its on-chain metrics, holder distribution, and price correlation. The analysis is conducted using Dune Analytics and aims to provide insights into the token's performance and user engagement.
 
-Here is the dashboard link with SQL queries: [Dashboard Link] https://dune.com/shatakshi/popcat-analysis
+Here is the dashboard link with SQL queries: https://dune.com/shatakshi/popcat-analysis
 
 ## Overview
 
